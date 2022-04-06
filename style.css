@@ -1,0 +1,79 @@
+body
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+    font-family: 'Oswald';
+    
+}
+
+body h1
+{
+    font-size: 36px;
+}
+body h2
+{
+    font-size: 30px;
+}
+body h3
+{
+    font-size: 24px;
+}
+body h4
+{
+    font-size: 18px;
+}
+body h5
+{
+    font-size: 14px;
+}
+body h6
+{
+    font-size: 12px;
+}
+
+
+.menu
+{
+   display: flex;
+   justify-content:flex-start;
+   background-color: #e7e7e7;
+}
+
+.menu ul li
+{
+ 
+    display: inline-block;
+    list-style: none;
+    padding-left: 5vh;
+   
+}
+
+.menu ul li a
+{
+    color: red;
+}
+
+.lista ul li
+{
+    
+    list-style: none;
+}
+.link a
+{
+   color: red;
+
+}
+
+
+
+.stopka
+{
+    display: flex;
+    justify-content: center;
+    background-color: #e7e7e7;
+    padding: 50px;
+}
+
+
